@@ -1,0 +1,15 @@
+#one{
+    text-align: center;
+    background-color: blueviolet;
+}
+#app{
+    background-color: blueviolet;
+}
+.one{
+    height: 400px;
+    width: 500px;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
